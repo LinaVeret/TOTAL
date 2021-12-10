@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/shake_ball"
+        android:title="@string/shake_the_ball"
+        android:icon="@drawable/push" />
+
+    <item
+        android:id="@+id/help"
+        android:title="@string/help"
+        android:icon="@drawable/help_icon" />
+
+</menu>
